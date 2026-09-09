@@ -2,4 +2,5 @@ venv
 .env
 Artifacts
 logs
+prediction_output
 __pycache__
